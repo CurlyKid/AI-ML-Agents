@@ -65,7 +65,7 @@ Now we have to assemble our .env, if you're using ollama the endpoint will be
 ```
 
 OLLAMA_API_ENDPOINT=http://localhost:11434/api
-OLLAMA_SMALL_MODEL=-[your model here]
+OLLAMA_SMALL_MODEL=[your model here]
 OLLAMA_MEDIUM_MODEL=[your model here]
 OLLAMA_LARGE_MODEL=[your model here]
 
